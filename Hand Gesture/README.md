@@ -40,8 +40,7 @@ $ python test.py
 Please use OpenCV version 4 to use Handy.
 
 ## Documentation
-I didn't want to make a full, proper documentation. 😅
-However, `test.py` contains all the functions and their usage.
+`test.py` contains all the functions and their usage.
 
 ## Purpose
 The purpose of this project was to detect hands in images/videos without using Machine/Deep Learning. So, this has been done using only Image Processing, and it is much faster than ML/DL solutions on a normal system. However, it is not as as accurate (backgrounds with similar color as that of skin can fool the detector).
